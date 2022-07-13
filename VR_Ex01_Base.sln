@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oculus.VR", "Oculus.VR.csproj", "{5E233406-AD87-E7DD-A4FB-81217299DB48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oculus.VR.Editor", "Oculus.VR.Editor.csproj", "{98844825-7855-37E2-1361-4211310CC591}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oculus.VR.Scripts.Editor", "Oculus.VR.Scripts.Editor.csproj", "{2318270B-67FE-5604-E31C-592D8D245877}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E233406-AD87-E7DD-A4FB-81217299DB48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E233406-AD87-E7DD-A4FB-81217299DB48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E233406-AD87-E7DD-A4FB-81217299DB48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E233406-AD87-E7DD-A4FB-81217299DB48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98844825-7855-37E2-1361-4211310CC591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98844825-7855-37E2-1361-4211310CC591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98844825-7855-37E2-1361-4211310CC591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98844825-7855-37E2-1361-4211310CC591}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2318270B-67FE-5604-E31C-592D8D245877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2318270B-67FE-5604-E31C-592D8D245877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2318270B-67FE-5604-E31C-592D8D245877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2318270B-67FE-5604-E31C-592D8D245877}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
